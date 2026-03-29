@@ -1,4 +1,33 @@
-# 🎯 REST API Bus-Reservation-System
+# Scalable Booking System (Open Source Backend Starter)
+
+A production-ready backend system for building booking platforms (bus, events, travel, etc.) using Java + Spring Boot.
+
+## 🚀 Features
+- User authentication & authorization
+- Booking & seat management system
+- RESTful APIs
+- Modular microservice-friendly structure
+- Scalable architecture patterns
+
+## 🧠 Use Cases
+- Bus/train/flight booking systems
+- Event ticketing platforms
+- Appointment scheduling systems
+
+## 🛠 Tech Stack
+- Java
+- Spring Boot
+- MySQL
+- Docker (optional)
+
+## ⚡ Getting Started
+
+```bash
+git clone https://github.com/starving-array/scalable-booking-system
+cd scalable-booking-system
+```
+
+# 🎯 REST API scalable-booking-system
 
 This Web-application will let the user to Sign-In into the portal and let the User to search available buses for particular destination. User can book the tickets for the journeys and user has a flexibility to cancel the ticket at anytime. 
 
